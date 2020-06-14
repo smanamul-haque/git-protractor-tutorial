@@ -1,2 +1,2 @@
-<em>Git is great.</em>
+<strong>Git is great.</strong>
 <p>Anamul Hauqe</p>
